@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(360deg, #949494 10%, #efefef 360%);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  .body-italic {
+    font-style: bold;
+  }
+  
+  .song-wrapper {
+    width: 200px;
+    margin: 30px;
+  }
+  
+  .song-text {
+    text-align: justify;
+  }
+  
+  .song-author {
+    color: lightslategray;
+  }
+  
+  .song-title {
+    font-weight: bold;
+    color: rgb(134, 238, 130);
+    border-left: 2px black dotted;
+    padding-left: 10px;
+  }
